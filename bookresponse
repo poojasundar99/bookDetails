@@ -1,0 +1,11 @@
+{
+    "totalPrice": {
+        "Chetan Bhagat": 6944,
+        "J.K Rowling": 4895
+    },
+    "uniqueAuthors": 2,
+    "highestPriceOfBook": {
+        "Chetan Bhagat": 1299,
+        "J.K Rowling": 1199
+    }
+}
