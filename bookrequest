@@ -1,0 +1,38 @@
+[
+    {
+        "nameOfTheBook": "Harry Potter",
+        "author": "J.K Rowling",
+        "priceOfBook": 799,
+        "quantity": 2
+    },
+    {
+        "nameOfTheBook": "Strange Thoughts",
+        "author": "J.K Rowling",
+        "priceOfBook": 899,
+        "quantity": 1
+    },
+    {
+        "nameOfTheBook": "Master Of Science",
+        "author": "J.K Rowling",
+        "priceOfBook": 1199,
+        "quantity": 2
+    },
+    {
+        "nameOfTheBook": "2 States",
+        "author": "Chetan Bhagat",
+        "priceOfBook": 1099,
+        "quantity": 2
+    },
+    {
+        "nameOfTheBook": "One Night In Call Center",
+        "author": "Chetan Bhagat",
+        "priceOfBook": 849,
+        "quantity": 1
+    },
+    {
+        "nameOfTheBook": "Half Girlfriend",
+        "author": "Chetan Bhagat",
+        "priceOfBook": 1299,
+        "quantity": 3
+    }
+]
